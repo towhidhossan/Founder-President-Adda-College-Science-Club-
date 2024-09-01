@@ -2,14 +2,14 @@ I'm Towhid 👋, a tech enthusiast who loves creating innovative web solutions.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my MEINETTI
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Full stack web development
-- 🤔 I’m looking for help with Backend & APIs
+- 🔭 I’m currently working A (Data Analyst) At 'Mainetti'
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate on Full stack web development.
+- 🤔 I’m looking for help with Backend & APIs.
 - 💬 Dreams: Become the world's no 1 full-stack web developer.
-- 📫 Ask me about: Programming, Web Development, Web Design, Web Applications, Web Hosting
+- 📫 Ask me about: Programming, Web Development, Web Design, Web Applications, Web Hosting.
 - 😄 How to reach me: towhidhossan37@gmail.com
-- ⚡ Fun fact: I want to travel the whole world
+- ⚡ Fun fact: I want to travel the whole world.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mdnadim.nadim.100046) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/towhid_hossan_8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/towhid-hossan/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/towhid_hossan) 
